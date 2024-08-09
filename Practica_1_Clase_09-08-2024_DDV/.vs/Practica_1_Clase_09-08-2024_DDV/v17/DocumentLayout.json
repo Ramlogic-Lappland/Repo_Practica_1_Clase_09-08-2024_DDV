@@ -1,16 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aula 1\\Desktop\\Practica_1_Clase_09-08-2024_DDV\\",
+  "WorkspaceRootPath": "C:\\Users\\Aula 1\\Desktop\\Repo_Practica_1_Clase_09-08-2024_DDV\\Practica_1_Clase_09-08-2024_DDV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA95A3AF-B9BE-4ADF-B2CF-4EBAFC40DD34}|Practica_1\\Practica_1.vcxproj|C:\\Users\\Aula 1\\Desktop\\Practica_1_Clase_09-08-2024_DDV\\Practica_1\\Practica_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4F3BA40C-D76E-445C-8FC5-EBA4B83BFCFD}|Practica_3\\Practica_3.vcxproj|C:\\Users\\Aula 1\\Desktop\\Repo_Practica_1_Clase_09-08-2024_DDV\\Practica_1_Clase_09-08-2024_DDV\\Practica_3\\Practica_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F3BA40C-D76E-445C-8FC5-EBA4B83BFCFD}|Practica_3\\Practica_3.vcxproj|solutionrelative:Practica_3\\Practica_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66F35C4-CB23-4C4C-9709-A740D0C26317}|Practica_2\\Practica_2.vcxproj|C:\\Users\\Aula 1\\Desktop\\Repo_Practica_1_Clase_09-08-2024_DDV\\Practica_1_Clase_09-08-2024_DDV\\Practica_2\\Practica_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C66F35C4-CB23-4C4C-9709-A740D0C26317}|Practica_2\\Practica_2.vcxproj|solutionrelative:Practica_2\\Practica_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95A3AF-B9BE-4ADF-B2CF-4EBAFC40DD34}|Practica_1\\Practica_1.vcxproj|C:\\Users\\Aula 1\\Desktop\\Repo_Practica_1_Clase_09-08-2024_DDV\\Practica_1_Clase_09-08-2024_DDV\\Practica_1\\Practica_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EA95A3AF-B9BE-4ADF-B2CF-4EBAFC40DD34}|Practica_1\\Practica_1.vcxproj|solutionrelative:Practica_1\\Practica_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Practica_3.cpp",
+              "DocumentMoniker": "C:\\Users\\Aula 1\\Desktop\\Repo_Practica_1_Clase_09-08-2024_DDV\\Practica_1_Clase_09-08-2024_DDV\\Practica_3\\Practica_3.cpp",
+              "RelativeDocumentMoniker": "Practica_3\\Practica_3.cpp",
+              "ToolTip": "C:\\Users\\Aula 1\\Desktop\\Repo_Practica_1_Clase_09-08-2024_DDV\\Practica_1_Clase_09-08-2024_DDV\\Practica_3\\Practica_3.cpp",
+              "RelativeToolTip": "Practica_3\\Practica_3.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T14:44:53.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practica_2.cpp",
+              "DocumentMoniker": "C:\\Users\\Aula 1\\Desktop\\Repo_Practica_1_Clase_09-08-2024_DDV\\Practica_1_Clase_09-08-2024_DDV\\Practica_2\\Practica_2.cpp",
+              "RelativeDocumentMoniker": "Practica_2\\Practica_2.cpp",
+              "ToolTip": "C:\\Users\\Aula 1\\Desktop\\Repo_Practica_1_Clase_09-08-2024_DDV\\Practica_1_Clase_09-08-2024_DDV\\Practica_2\\Practica_2.cpp",
+              "RelativeToolTip": "Practica_2\\Practica_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T14:19:53.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Practica_1.cpp",
-              "DocumentMoniker": "C:\\Users\\Aula 1\\Desktop\\Practica_1_Clase_09-08-2024_DDV\\Practica_1\\Practica_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Aula 1\\Desktop\\Repo_Practica_1_Clase_09-08-2024_DDV\\Practica_1_Clase_09-08-2024_DDV\\Practica_1\\Practica_1.cpp",
               "RelativeDocumentMoniker": "Practica_1\\Practica_1.cpp",
-              "ToolTip": "C:\\Users\\Aula 1\\Desktop\\Practica_1_Clase_09-08-2024_DDV\\Practica_1\\Practica_1.cpp",
+              "ToolTip": "C:\\Users\\Aula 1\\Desktop\\Repo_Practica_1_Clase_09-08-2024_DDV\\Practica_1_Clase_09-08-2024_DDV\\Practica_1\\Practica_1.cpp",
               "RelativeToolTip": "Practica_1\\Practica_1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-09T12:12:28.596Z",
               "EditorCaption": ""
