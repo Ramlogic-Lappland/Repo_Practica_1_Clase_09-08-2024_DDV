@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aula 1\\Desktop\\Practica_1_Clase_09-08-2024_DDV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA95A3AF-B9BE-4ADF-B2CF-4EBAFC40DD34}|Practica_1\\Practica_1.vcxproj|C:\\Users\\Aula 1\\Desktop\\Practica_1_Clase_09-08-2024_DDV\\Practica_1\\Practica_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA95A3AF-B9BE-4ADF-B2CF-4EBAFC40DD34}|Practica_1\\Practica_1.vcxproj|solutionrelative:Practica_1\\Practica_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practica_1.cpp",
+              "DocumentMoniker": "C:\\Users\\Aula 1\\Desktop\\Practica_1_Clase_09-08-2024_DDV\\Practica_1\\Practica_1.cpp",
+              "RelativeDocumentMoniker": "Practica_1\\Practica_1.cpp",
+              "ToolTip": "C:\\Users\\Aula 1\\Desktop\\Practica_1_Clase_09-08-2024_DDV\\Practica_1\\Practica_1.cpp",
+              "RelativeToolTip": "Practica_1\\Practica_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T12:12:28.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
